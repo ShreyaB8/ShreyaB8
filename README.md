@@ -4,6 +4,7 @@ I follow <b>RED</b>
 <b>R</b>esearch | <b>E</b>ngineer | <b>D</b>evelop
 * 🔭 I’m currently learning about AI and it's use cases in Hardware
 * 🌱 I have prior experience in Communication Networks, IoT, Electronics, Web Dev
+* 🏆 First runer up for Github & Devfolio Hackathon (Hackchennai), All India Top 10 for Bosch & IRSC Hackathon, IITG, SIIC Open Project Winner
 * 💬 Ask me about anything [here](https://simplyshreya.in)
 
 
