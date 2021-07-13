@@ -8,4 +8,5 @@ I follow <b>RED</b>
 * 💬 Ask me about anything [here](https://simplyshreya.in)
 
 
-![Shreya's github stats](https://github-readme-stats.vercel.app/api?username=ShreyaB8&count_private=true&show_icons=true&theme=dracula)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaB8&layout=compact&count_private=true&theme=dracula) 
+<a href="https://profile-summary-for-github.com/user/shreyab8">
+  <img height="200px" width="100%" src="https://github-readme-stats.vercel.app/api?theme=dracula&username=ShreyaB8&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Parikshit's GitHub stats"/>
