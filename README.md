@@ -9,5 +9,3 @@ I follow <b>RED</b>
 * 💬 Ask me about anything [here](https://simplyshreya.in)
 
 
-<a href="https://profile-summary-for-github.com/user/shreyab8">
-  <img height="200px" width="100%" src="https://github-readme-stats.vercel.app/api?theme=dracula&username=ShreyaB8&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Parikshit's GitHub stats"/>
